@@ -102,7 +102,7 @@ a.left:hover:before {
   text-align: center;
   padding-top: 180px;
   color: white;
-  font-family: 'Dancing Script', cursive;
+  font-family: cursive;
 }
 
 /* --- Start progress bar --- */
